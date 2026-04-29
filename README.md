@@ -62,7 +62,7 @@ Acredito que boas soluções nascem da combinação entre lógica sólida, vonta
 | Instituição | Curso | Status |
 |---|---|---|
 | **UNICID** | Análise e Desenvolvimento de Sistemas | Em andamento |
-| **Alura** | Técnico em ADS | Concluído |
+| **Alura** | Técnico em ADS | Concluido |
 
 ---
 
@@ -81,9 +81,14 @@ Acredito que boas soluções nascem da combinação entre lógica sólida, vonta
 
 **Auxiliar Administrativo — AS Brindes** *(atual)*
 
-- Organização e controle de estoque
-- Registro e rastreamento de entrada/saída de produtos
-- Apoio em processos administrativos e gestão de informações
+- Gerenciamento semanal de inventário com base na análise de dados de entrada e saída
+- Consolidação e análise de informações operacionais utilizando Excel e Tabelas Dinâmicas
+- Organização e manutenção de bases de dados, garantindo integridade e rastreabilidade das informações
+- Padronização de processos internos para suporte à tomada de decisão
+- Capacitação de colegas em ferramentas de controle e processos administrativos
+- Monitoramento de divergências operacionais com registro estruturado da movimentação de produtos e insumos
+
+**Ferramentas:** Microsoft Excel, Microsoft Word, Tabelas Dinâmicas, relatórios operacionais e documentação administrativa
 
 ---
 
