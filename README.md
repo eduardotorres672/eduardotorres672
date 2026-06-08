@@ -93,7 +93,7 @@ Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico
 | Instituição | Curso | Status |
 |---|---|---|
 | **UNICID** | Análise e Desenvolvimento de Sistemas | Em andamento — previsão 2027 |
-| **Alura** | Técnico em ADS | Concluído |
+| **Alura** | Técnico em ADS | ✅ Concluído |
 
 ---
 
