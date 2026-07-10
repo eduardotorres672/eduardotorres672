@@ -8,9 +8,9 @@
 
 <br/>
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-eduardo--dev--six.vercel.app-2c5364?style=for-the-badge)](https://eduardo-dev-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocosi)
 [![Gmail](https://img.shields.io/badge/Gmail-eduardocosi1810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
-[![Localização](https://img.shields.io/badge/📍-São%20Paulo%2C%20SP-2c5364?style=for-the-badge)](https://maps.app.goo.gl/sPz1)
 
 </div>
 
@@ -18,15 +18,15 @@
 
 ## Sobre Mim
 
-Olá! Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e apaixonado por transformar ideias em código que funciona de verdade.
+Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e desenvolvedor full-stack focado em transformar ideias em código funcional e bem estruturado.
 
-Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico boas práticas com **Git** e tenho experiência prática com **análise de dados no Excel**. Inglês fluente para documentação técnica e squads internacionais.
+Construo aplicações com **React 19, TypeScript e Firebase**, automatizo processos com **Python** e aplico boas práticas de versionamento com **Git**. Tenho experiência prática com análise de dados no **Excel** e inglês fluente para documentação técnica e squads internacionais.
 
-> *"Entrego projetos reais — não apenas exercícios de curso."*
+Entrego projetos reais, não apenas exercícios de curso.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -41,6 +41,7 @@ Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Ferramentas**
@@ -54,26 +55,27 @@ Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔲 [QR Code Generator](https://github.com/eduardotorres672/Gerador-de-Qr-code)
+### [Z-API + Supabase — WhatsApp Message Sender](https://github.com/eduardotorres672/zapi-supabase-whatsapp)
+> Script Python para disparo de mensagens WhatsApp em lote, integrado ao Supabase
+
+- **Stack:** Python · supabase-py · Z-API · python-dotenv · requests
+- **Destaques:** templates de mensagem configuráveis via CLI · registro de envios no banco (status, template, timestamps) · filtro automático de contatos pendentes · modo dry-run para simulação sem envio real · delay configurável entre disparos para evitar bloqueios · validação de telefone antes de qualquer chamada à API
+- Suporte a agendamento via cron ou GitHub Actions para execução automática
+
+---
+
+### [QR Code Generator](https://github.com/eduardotorres672/Gerador-de-Qr-code)
 > Aplicação full-stack para geração e gerenciamento de QR Codes personalizados
 
 - **Stack:** React 19 · TypeScript · Vite · Tailwind CSS 4 · Firebase · Framer Motion
-- **Destaques:** Firebase Auth + Firestore + Cloud Storage · Admin dashboard · Controle por voz em PT-BR · Exportação PNG, JPEG e SVG · Modo acessibilidade
+- **Destaques:** Firebase Auth + Firestore + Cloud Storage · dashboard administrativo · controle por voz em PT-BR · exportação em PNG, JPEG e SVG · modo de acessibilidade
 - Arquitetura modular com separação de responsabilidades, Firestore Rules e configuração profissional de ambiente
 
 ---
 
-### 🎮 [Python Quiz Pro](https://github.com/eduardotorres672/Quiz-de-perguntas)
-> CLI game interativo com gamificação e cronometragem de respostas
-
-- **Stack:** Python 3.x · module time · dicts & lists
-- **Destaques:** 3 níveis de dificuldade · Cronômetro em tempo real · Feedback dinâmico por percentual de acerto · Validação case-insensitive
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,16 +90,16 @@ Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico
 
 ---
 
-## 🎓 Formação
+## Formação
 
 | Instituição | Curso | Status |
 |---|---|---|
 | **UNICID** | Análise e Desenvolvimento de Sistemas | Em andamento — previsão 2027 |
-| **Alura** | Técnico em ADS | ✅ Concluído |
+| **Alura** | Técnico em ADS | Concluído |
 
 ---
 
-## 🌎 Idiomas
+## Idiomas
 
 | Idioma | Nível |
 |---|---|
@@ -108,23 +110,24 @@ Construo aplicações full-stack com **React 19, TypeScript e Firebase**, aplico
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 **Auxiliar Administrativo — AS Brindes** *(Março 2025 – atual)*
 
 - Estruturei e mantive base de dados de estoque com rastreabilidade completa de entradas, saídas e inventário
-- Elaborei planilhas de controle e relatórios de indicadores operacionais com **Excel e Tabelas Dinâmicas**
+- Elaborei planilhas de controle e relatórios de indicadores operacionais com Excel e Tabelas Dinâmicas
 - Padronizei processos internos para suporte à tomada de decisão da gestão
 - Monitorei divergências operacionais com registro estruturado de movimentação de produtos
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
 | Canal | Info |
 |---|---|
+| Portfólio | [eduardo-dev-six.vercel.app](https://eduardo-dev-six.vercel.app/) |
 | E-mail | [eduardocosi1810@gmail.com](mailto:eduardocosi1810@gmail.com) |
 | LinkedIn | [linkedin.com/in/eduardocosi](https://www.linkedin.com/in/eduardocosi) |
 | Telefone | (11) 96752-1239 |
