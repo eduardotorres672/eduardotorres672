@@ -55,7 +55,7 @@ Entrego projetos reais, não apenas exercícios de curso.
 
 ---
 
-## Projetos em Destaque
+## Projetos 
 
 ### [Z-API + Supabase — WhatsApp Message Sender](https://github.com/eduardotorres672/zapi-supabase-whatsapp)
 > Script Python para disparo de mensagens WhatsApp em lote, integrado ao Supabase
