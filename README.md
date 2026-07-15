@@ -94,7 +94,7 @@ Entrego projetos reais, não apenas exercícios de curso.
 
 | Instituição | Curso | Status |
 |---|---|---|
-| **UNICID** | Análise e Desenvolvimento de Sistemas | Em andamento — previsão 2027 |
+| **Faculdade Impacta** | Análise e Desenvolvimento de Sistemas | Em andamento — previsão 2027 |
 | **Alura** | Técnico em ADS | Concluído |
 
 ---
