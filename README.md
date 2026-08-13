@@ -18,7 +18,7 @@
 
 ## Sobre Mim
 
-Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e desenvolvedor full-stack focado em transformar ideias em código funcional e bem estruturado.
+Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta** e desenvolvedor backend Jr focado em transformar ideias em código funcional e bem estruturado.
 
 Construo aplicações com **React 19, TypeScript e Firebase**, automatizo processos com **Python** e aplico boas práticas de versionamento com **Git**. Tenho experiência prática com análise de dados no **Excel** e inglês fluente para documentação técnica e squads internacionais.
 
